@@ -31,3 +31,5 @@ Welcome to my GitHub profile! Enthusiastic Senior Full Stack Developer with exte
 Thank you for visiting my profile! Feel free to check out my repositories and keep in touch if you'd like to collaborate on a project.
 
 ![GitHub followers](https://img.shields.io/github/followers/stanislave000126?style=social) ![GitHub stars](https://img.shields.io/github/stars/stanislave000126?style=social)
+
+:)
